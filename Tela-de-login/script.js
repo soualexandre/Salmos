@@ -21,6 +21,7 @@ btnLogin.addEventListener("click", event => {
     });
   } else {
     form.classList.add("form-hide");
+	window.location.href = "http://www.devmedia.com.br"; 
   }
 });
 
